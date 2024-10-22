@@ -1,4 +1,12 @@
 h1{
     font-weight: bold;
     color: red;
+    text-decoration-line: underline ;
+    text-shadow: 2px 2px;
+}
+#intro {
+    font-weight: bold;
+    color: red;
+    text-decoration-line: underline ;
+    text-shadow: 2px 2px;
 }
