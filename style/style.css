@@ -2,11 +2,21 @@ h1{
     font-weight: bold;
     color: red;
     text-decoration-line: underline ;
-    text-shadow: 2px 2px;
+    text-shadow: 1px 1px;
 }
 #intro {
     font-weight: bold;
     color: red;
     text-decoration-line: underline ;
-    text-shadow: 2px 2px;
+    text-shadow: 1px 1px;
+}
+h2 {
+    color: Red;
+}
+
+h3 {
+    color: Red;
+}
+#projects{
+    color: Red;
 }
